@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/Objects/BP_Object.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/SphereNotColliding.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/ZH/01ST91HG45HDRI1QV0QOUM.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/Materials/NewMaterial.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/Materials/m_outline.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/Materials/m_outlineWhite.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/39/JYF7TQ1P4S6WO1EG84LT77.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/Blueprints/bp_obj.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/ActorComponent/OverlayComponent.uasset",
+				"C:/Users/Adam/Desktop/Skibidi-TDGame/GameOff2025Skib/GameOff2025_SkibTeam/Content/Widget/W_Interact.uasset"
+			]
+		}
+	]
+}
